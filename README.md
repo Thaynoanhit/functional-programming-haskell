@@ -43,9 +43,7 @@ Este projeto contém implementações de operações básicas em listas usando H
 3. Execute o arquivo de testes:
 
 `bash`
-
 `ghc teste.hs`
-
 `./teste`
 
 ## Por que Haskell?
