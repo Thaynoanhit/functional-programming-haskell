@@ -1,6 +1,6 @@
-# functional-programming-haskell
+# Functional-Programming-Haskell
 
-# Exercícios em Haskell - Programação Funcional
+## Exercícios em Haskell - Programação Funcional
 
 ## Sobre Haskell
 
